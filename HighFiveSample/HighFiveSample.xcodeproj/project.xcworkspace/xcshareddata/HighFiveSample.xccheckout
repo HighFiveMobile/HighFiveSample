@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C44E57E5-5314-4135-A712-06000B48707D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HighFiveSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>032186C9-659C-4B17-B652-F0339A8A2673</key>
+		<string>https://github.com/HighFiveMobile/docs-sdk.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HighFiveSample/HighFiveSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>032186C9-659C-4B17-B652-F0339A8A2673</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HighFiveMobile/docs-sdk.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>032186C9-659C-4B17-B652-F0339A8A2673</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>032186C9-659C-4B17-B652-F0339A8A2673</string>
+			<key>IDESourceControlWCCName</key>
+			<string>me.highfive</string>
+		</dict>
+	</array>
+</dict>
+</plist>
