@@ -3,6 +3,11 @@ HighFive Demo App
 
 This is a demo app to get developers started using the HighFive SDK
 
+- [Full documentation](https://www.highfive.me/documentation/Classes/Highfive.html)
+
+- [Download Highfive SDK](https://www.highfive.me/downloads/Highfive.framework.1.5.1.zip) or you can grab the SDK from this repo.
+
+
 ### Getting Started
 
 You will find the demo code in [HFARootViewController.m](https://github.com/HighFiveMobile/HighFiveSample/blob/master/HighFiveSample/HFARootViewController.m)

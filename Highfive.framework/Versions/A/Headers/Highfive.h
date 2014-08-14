@@ -18,7 +18,7 @@ typedef void (^BeaconFoundWithLastActivityID)(NSString *);
 
 /**
  
- **Version 1.5.0** - This framework creates the ability to reward users based on the activities that are tracked.
+ **Version 1.5.1** - This framework creates the ability to reward users based on the activities that are tracked.
  
 */
 
